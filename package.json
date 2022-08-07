@@ -1,6 +1,6 @@
 {
   "name": "todo",
-  "homepage": "https://RiBpy.github.io/todo",
+  "homepage": "https://RiBpy.github.io/react_todo_simple",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
